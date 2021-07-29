@@ -8,8 +8,8 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav ml-auto">
    	<div style="font-size:20px" class="navbar-nav ">
-    <a href="#aboutUs" class="nav-link">O nas</a>
- 		<a href="#kasyFiskalne" class="nav-link">Kasy Fiskalne</a>     
+    <a href="../#aboutUs" class="nav-link">O nas</a>
+ 		<a href="../#kasyFiskalne" class="nav-link">Kasy Fiskalne</a>     
     <a href="contact.php" class="nav-link">Kontakt</a>
    
             <div id="demo" class="ml-3 mr-3 mt-2"><a href="https://pl-pl.facebook.com/mar2go/" target="_blank">
