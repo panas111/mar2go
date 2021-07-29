@@ -2,19 +2,18 @@
 <html lang="pl">
 
 
-	<head>
-		
-		<?php 
-			include 'head.php';
-		?>
+<head>
+	
+	<?php 
+	include 'head.php';
+	?>
 
 </head>
 <body>
 
-<?php 
+	<?php 
 	include 'menu.php';
-?>
-	
+	?>	
 
 <div class="main container-fluid text-center">
   	<div data-aos="fade-up" class="text"> 
